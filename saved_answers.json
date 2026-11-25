@@ -1,0 +1,21 @@
+{
+ "what services do you offer": {
+  "reply": "WAM offers bulk SMS, email and WhatsApp marketing, SEO, social media, websites, and mobile apps. Which of these services do you need?",
+  "lead": {},
+  "model": "gemini-3.5-flash-lite"
+ },
+ "هل تقدمون خدمة التسويق عبر واتساب": {
+  "reply": "نعم، نقدم خدمة التسويق عبر الواتساب. ما هو حجم العمل أو عدد الرسائل الشهري الذي تحتاجه؟",
+  "lead": {
+   "service": "التسويق عبر واتساب"
+  },
+  "model": "gemini-3.5-flash-lite"
+ },
+ "i want to send sms offers": {
+  "reply": "We offer bulk SMS marketing to reach your customers. How many messages would you like to send each month?",
+  "lead": {
+   "service": "Bulk SMS Marketing"
+  },
+  "model": "gemini-3.5-flash-lite"
+ }
+}
